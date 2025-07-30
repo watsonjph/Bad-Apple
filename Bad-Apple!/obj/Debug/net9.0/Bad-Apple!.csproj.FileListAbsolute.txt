@@ -1,0 +1,15 @@
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\bin\Debug\net9.0\Bad-Apple!.exe
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\bin\Debug\net9.0\Bad-Apple!.deps.json
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\bin\Debug\net9.0\Bad-Apple!.runtimeconfig.json
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\bin\Debug\net9.0\Bad-Apple!.dll
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\bin\Debug\net9.0\Bad-Apple!.pdb
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.AssemblyInfoInputs.cache
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.AssemblyInfo.cs
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.csproj.CoreCompileInputs.cache
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.sourcelink.json
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.dll
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\refint\Bad-Apple!.dll
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.pdb
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\Bad-Apple!.genruntimeconfig.cache
+C:\Users\Dyedw\Documents\repos\Bad-Apple\Bad-Apple!\obj\Debug\net9.0\ref\Bad-Apple!.dll
