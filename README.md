@@ -4,4 +4,5 @@
 Original MV: https://www.youtube.com/watch?v=FtutLA63Cp8
 
 ## Setup
-- COMING SOON!
+- Run Executable
+- Enjoy!
